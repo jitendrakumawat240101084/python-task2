@@ -3,7 +3,7 @@
 This repository contains simple Python programs based on **Basic Python
 Concepts**.
 
-Repository Name: jitendrakumawat240101084/python-task
+Repository Name: jitendrakumawat240101084/python-task2
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ print("The sum of numbers from 1 to 50 is:", total)
 
 1.  Install Python (if not installed).
 2.  Clone the repository: git clone
-    https://github.com/jitendrakumawat240101084/python-task.git
+    https://github.com/jitendrakumawat240101084/python-task2.git
 3.  Navigate to the folder: cd python-task
 4.  Run the Python file: python filename.py
 
